@@ -1,0 +1,3 @@
+# SignalRDiscovery
+Premier Test avec SignalR : Affichage de message à tous les membres...
+aussi j'ai juste voulu tester un PullUp
